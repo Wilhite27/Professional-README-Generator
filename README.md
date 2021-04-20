@@ -23,4 +23,4 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 ### Mock-up
-![100-end-of-module](https://user-images.githubusercontent.com/77178392/114948535-c9605400-9e14-11eb-91f5-43442baa2739.jpg)
+
