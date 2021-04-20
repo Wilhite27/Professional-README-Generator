@@ -5,6 +5,7 @@
   # Email
   ## Wilhite27
 
+<<<<<<< HEAD
   # Project Name
   ## README-generator
 
@@ -20,3 +21,6 @@
   # Questions
   ## Other forms of contact? Usage? Etc...
   
+=======
+### Demonstration 
+>>>>>>> cfa6b11b77475ef931e048a01bfb302267021326
